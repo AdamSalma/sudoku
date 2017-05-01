@@ -1,3 +1,4 @@
 # Sudoku
 
-Describe Sudoku here.
+Sudoku generate/solve algorithms written in ES6
+
